@@ -9,4 +9,6 @@ public class AwasomeTest {
     //and now my project is in sync with remote repository
 
     //Now i made more awasome changes and i am about to push this back to Github
+
+    //adding one more line
 }
